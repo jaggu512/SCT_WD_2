@@ -1,28 +1,31 @@
 # Stopwatch Web Application ⏱️
 
-This is a basic stopwatch web application developed as part of the SkillCraft Technology Internship - Task 02. The stopwatch helps users measure and record time intervals with an intuitive and responsive user interface.
+This is a simple stopwatch web application built using HTML, CSS, and JavaScript. It was created as part of SkillCraft Technology's internship Task 02.
 
-## 🚀 Features
+## 🔧 Features
 
-- Start, Pause, and Reset functionality
-- Lap time tracking
-- Clean and responsive UI
-- Built using **HTML**, **CSS**, and **JavaScript**
+- Start, pause, and reset stopwatch functionality
+- Track elapsed time in `hh:mm:ss` format
+- User-friendly interface
 
-## 📂 Files
+## 📁 Files Included
 
 - `index.html` – Structure of the stopwatch
-- `style.css` – Styling for the layout and buttons
-- `script.js` – Functionality for stopwatch operations
+- `style.css` – Basic styling for the stopwatch
+- `script.js` – JavaScript logic for stopwatch operations
 
-## 💡 How it works
+## 📸 Preview
 
-The stopwatch uses JavaScript's `setInterval()` to track time, with event listeners for Start, Pause, Reset, and Lap buttons. Laps are stored and displayed dynamically below the timer.
+![Stopwatch UI](./preview.png) *(Add screenshot if needed)*
 
-## 🖥️ Preview
+## 🧠 Learning Outcomes
 
-![Stopwatch Preview](screenshot.png) <!-- (Optional: Add a screenshot if you upload one to your repo) -->
+- DOM manipulation
+- Event handling
+- Basic time tracking logic using JavaScript
 
-## 📌 Usage
+## 📌 Project Link
 
-1. Clone the repo:
+🔗 [GitHub Repository](https://github.com/jaggu512/SCT_WD_2)
+
+---
